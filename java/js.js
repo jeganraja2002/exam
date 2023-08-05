@@ -29,21 +29,21 @@
 
 //.........................................................................................................
 
+
+	/* 4. Write the states of promises.
+			
+			answer = fullfilled , rejected , pending 
+	
+	*/
+
+
+//.........................................................................................................
+
 	
 	/* 5. Difference between promise chaining and promise all.
 	
 		Executes one by one (synchronous). Result of one execution can be passed to the next step.
 		Execution time to fulfill all the promise is comparatively high. Chaining after an error is possible.
-
-
-
-//.........................................................................................................
-
-
-	/* 4. Write the states of promises.
-			answer = fullfilled , rejected , pending 
-	*/
-
 
 //........................................................................................................
 
